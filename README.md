@@ -1,0 +1,1 @@
+This was a practice project I made while learning Spring Tool Suite and Spring Boot.
